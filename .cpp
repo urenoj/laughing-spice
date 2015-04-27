@@ -1,6 +1,6 @@
-# include <iostream>;
-# include <cstdlib>;
-# include <ctime>;
+# include <iostream>
+# include <cstdlib>
+# include <ctime>
 
 using namespace std;
 
@@ -123,9 +123,4 @@ int main()
 	cout << "+-+-+-+" << endl;
 
 	system("pause/n");
-
-
-
-
-
 }
